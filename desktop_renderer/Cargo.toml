@@ -1,0 +1,10 @@
+[package]
+name = "desktop_renderer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+softbuffer = "0.4.6"
+winit = "0.30.5"
+#pollster = { version = "0.3.0", features = ["macro"] }
+

@@ -1,0 +1,3 @@
+[workspace]
+members = [ "desktop_renderer","one_dimension"]
+resolver = "2"
